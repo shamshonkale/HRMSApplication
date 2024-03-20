@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Login Completed]]>
+    </line>
+    <line>
+      <![CDATA[Entered info Frame]]>
+    </line>
+    <line>
+      <![CDATA[New Employee added]]>
+    </line>
+    <line>
+      <![CDATA[Exit from Frame]]>
+    </line>
+    <line>
+      <![CDATA[Logout Completed]]>
+    </line>
+    <line>
+      <![CDATA[Application Closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-03-20T07:41:02Z" name="Default suite" finished-at="2024-03-20T07:41:13Z" duration-ms="10652">
+    <groups>
+    </groups>
+    <test started-at="2024-03-20T07:41:02Z" name="Default test" finished-at="2024-03-20T07:41:13Z" duration-ms="10652">
+      <class name="com.hrms.testscripts.TC002">
+        <test-method signature="tc002()[pri:0, instance:com.hrms.testscripts.TC002@53045c6c]" started-at="2024-03-20T13:11:02Z" name="tc002" finished-at="2024-03-20T13:11:13Z" duration-ms="10629" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[Login Completed]]>
+            </line>
+            <line>
+              <![CDATA[Entered info Frame]]>
+            </line>
+            <line>
+              <![CDATA[New Employee added]]>
+            </line>
+            <line>
+              <![CDATA[Exit from Frame]]>
+            </line>
+            <line>
+              <![CDATA[Logout Completed]]>
+            </line>
+            <line>
+              <![CDATA[Application Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+      </class> <!-- com.hrms.testscripts.TC002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
